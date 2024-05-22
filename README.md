@@ -6,6 +6,7 @@
     <li>Ringing</li>
     <li>HangUp</li>
 </ul>
+<h4>Diverse:</h4>
 <ul>
 <li>sa ne gandim la un scenariu in care sa utilizam functiile din iax si sip</li>
 <li>sa ne asiguram ca avem fisierele de configurare comentate in centrala</li>
