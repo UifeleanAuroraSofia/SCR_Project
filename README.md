@@ -1,6 +1,6 @@
 # SCR_Project
 
-De implementat pentru predare:
+<h3>De implementat pentru predare:</h3>
 - functii:
     - Ringing
     - HangUp
